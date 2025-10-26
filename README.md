@@ -1,4 +1,4 @@
-👋 Hi, I’m Amine Mami 24 Years Old, I'm from Algeria! 👀 I’m interested in AI, CyberSecurity And Web Developer, generaly; in Computer sciences, IT 🌱 I’m currently learning Full stack Web Developement (html, css, bootstrap, Js, Js Web Frameworks, Oracle, Mysal, Php..), Python, AI (Basics, ML, DeepL, NLP, CV), IT Support. 💞️ I’m looking to collaborate on Full stack Web Developement Projects / Researches, AI Projects / Researches. 
+👋 Hi, I’m Amine Mami 26 Years Old, I'm from Algeria! 👀 I’m interested in AI, CyberSecurity And Web Developer, generaly; in Computer sciences, IT 🌱 I’m currently learning Full stack Web Developement (html, css, bootstrap, Js, Js Web Frameworks, Oracle, Mysal, Php..), Python, AI (Basics, ML, DeepL, NLP, CV), IT Support. 💞️ I’m looking to collaborate on Full stack Web Developement Projects / Researches, AI Projects / Researches. 
 
 - 📫 How to reach me :
 - Email: mamiaminepro@gmail.com
